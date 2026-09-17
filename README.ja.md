@@ -47,4 +47,8 @@ skills=109 fixtures=17 errors=0
 
  ## ライセンス
 
- オリジナルのゲーム開発スーパー スタック コンテンツは、Apache License 2.0 に基づいてライセンスされています。ベンダーのスキルは、アップストリームの Apache-2.0 の帰属を保持します。 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)を参照してください。 
+このリポジトリには、対象ごとに異なるライセンスが適用されます。
+
+- 独自Skill 81個には、[Game Dev Super Stack 独自Skillライセンス 1.0](ORIGINAL_SKILLS_LICENSE.ja.md)が適用されます。使用と参考は自由ですが、作者詐称とSkillの販売は禁止され、派生Skillや記事を公開する場合は参考元またはリポジトリURLの記載が必須です。[利用規約](TERMS_OF_USE.ja.md)も確認してください。
+- 外部Skill 28個にはApache License 2.0が引き続き適用されます。[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)および[`LICENSES/Apache-2.0.txt`](LICENSES/Apache-2.0.txt)を参照してください。
+- 独自Skillのライセンスには販売・有料再配布の制限があるため、OSI承認のオープンソースライセンスではなく、公開ソース型の独自ライセンスです。

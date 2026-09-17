@@ -5,3 +5,5 @@ The 28 skills identified as `external` in `docs/source-lock.md` are derived with
 Copyright and license terms remain with their respective authors. Source: https://github.com/gamedev-skills/awesome-gamedev-agent-skills
 
 Apache License 2.0 text: https://www.apache.org/licenses/LICENSE-2.0
+
+The Game Dev Super Stack Original Skills License and Terms of Use do not apply to these 28 third-party skills. Their Apache License 2.0 permissions and conditions remain unchanged.

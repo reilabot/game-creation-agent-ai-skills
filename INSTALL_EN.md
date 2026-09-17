@@ -51,6 +51,12 @@ scripts/install_stack.py
 scripts/validate_stack.py
 tests/router-fixtures.json
 docs/
+LICENSE
+LICENSES/
+ORIGINAL_SKILLS_LICENSE.en.md
+ORIGINAL_SKILLS_LICENSE.ja.md
+TERMS_OF_USE.en.md
+TERMS_OF_USE.ja.md
 THIRD_PARTY_NOTICES.md
 ```
 

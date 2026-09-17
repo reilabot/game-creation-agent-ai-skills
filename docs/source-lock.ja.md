@@ -17,3 +17,5 @@
  ## ローカル スキル
 
  他の 81 のスキルは、`scripts/build_gamedev_stack.py` によって生成されたオリジナルのリポジトリ ローカル作業です。外部ソース ロックはありません。生成されたファイルは権限があり、既存のスキル フォルダーの上書きを意図的に拒否します。 
+
+これら81個の独自Skillには、本ライセンスを含む版以降、Game Dev Super Stack独自Skillライセンス1.0が適用されます。使用と参考は許可され、作者詐称とSkillの販売は禁止され、派生Skillまたは記事を公開する場合は帰属表示またはリポジトリURLが必要です。[`ORIGINAL_SKILLS_LICENSE.ja.md`](../ORIGINAL_SKILLS_LICENSE.ja.md)および対応する利用規約を参照してください。
