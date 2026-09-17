@@ -2,6 +2,29 @@
 
 A portable Agent Skills stack for planning, building, validating, and shipping games across Unity, Unreal Engine, Godot, Roblox, Bevy, Phaser, PixiJS, Three.js, pygame, LÖVE, and custom engines.
 
+## 日本語での説明
+
+Game Dev Super Stackは、ゲームの企画、設計、実装、検証、公開までを支援する、AIコーディングエージェント向けのゲーム開発Skill集です。Unity、Unreal Engine、Godot、Roblox、Bevy、Phaser、PixiJS、Three.js、pygame、LÖVE、独自エンジンに対応しています。
+
+109個のSkillから、ゲームエンジン、プログラミング言語、ジャンル、ゲームシステム、ネットワーク、UI/UX、VFX、オーディオ、アクセシビリティ、パフォーマンス、QA、CI/CD、ストア公開など、依頼内容に必要なSkillだけをRouterが選択します。ゲーム制作時の言語選択には`gamedev-language-selector`が使用されます。
+
+主な特徴:
+
+- OpenAI Codex、Claude Code、Cursor、Gemini CLI、Google Antigravity、GitHub Copilotなどで利用可能
+- 既存プロジェクトのエンジン、言語、構成を検出して尊重
+- ゲーム開発に必要なSkillを依存関係順に選択
+- 実装後に機能、視覚、パフォーマンス、アクセシビリティ、ネットワークを検証
+- 公開、デプロイ、購入、認証情報の利用、プレイヤーデータの変更は明示的な承認がある場合だけ実行
+- 全Markdownに英語版（`*.en.md`）と日本語版（`*.ja.md`）を用意
+
+AIへ一つのMarkdownを渡して導入する場合は、[INSTALL_JA.md](INSTALL_JA.md)を使用してください。英語版は[INSTALL_EN.md](INSTALL_EN.md)です。導入後は次のコマンドで構成を検証できます。
+
+```bash
+python scripts/validate_stack.py
+```
+
+正常な場合は`skills=109 fixtures=17 errors=0`と表示されます。
+
 ## What is included
 
 - 109 independently discoverable Agent Skills
