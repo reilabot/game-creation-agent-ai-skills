@@ -1,0 +1,174 @@
+[
+  {
+    "name": "godot-pixel-roguelite",
+    "goal": "Godot 2D pixel art roguelite",
+    "engine": "godot",
+    "expect": [
+      "godot-gdscript",
+      "roguelike",
+      "procedural-gen",
+      "gamedev-quality-gate"
+    ]
+  },
+  {
+    "name": "unity-mobile-idle",
+    "goal": "Unity mobile idle RPG touch UI",
+    "engine": "unity",
+    "expect": [
+      "unity-csharp-scripting",
+      "genre-idle-incremental",
+      "game-responsive-ui",
+      "game-accessibility"
+    ]
+  },
+  {
+    "name": "unreal-coop-survival",
+    "goal": "Unreal four player online survival crafting building dedicated server",
+    "engine": "unreal",
+    "expect": [
+      "unreal-cpp-gameplay",
+      "survival-crafting",
+      "game-authoritative-server",
+      "game-crafting-building"
+    ]
+  },
+  {
+    "name": "phaser-card",
+    "goal": "Phaser browser card game",
+    "engine": "phaser",
+    "expect": [
+      "phaser-core",
+      "game-design"
+    ]
+  },
+  {
+    "name": "roblox-tycoon",
+    "goal": "Roblox multiplayer tycoon",
+    "engine": "roblox",
+    "expect": [
+      "roblox-luau",
+      "roblox-networking",
+      "genre-tycoon"
+    ]
+  },
+  {
+    "name": "bevy-action",
+    "goal": "Bevy desktop ECS action game",
+    "engine": "bevy",
+    "expect": [
+      "bevy-ecs"
+    ]
+  },
+  {
+    "name": "threejs-exploration",
+    "goal": "Three.js 3D browser exploration game",
+    "engine": "threejs",
+    "expect": [
+      "threejs-scene-setup"
+    ]
+  },
+  {
+    "name": "undecided-strategy",
+    "goal": "engine undecided turn-based strategy",
+    "engine": null,
+    "expect": [
+      "game-design",
+      "game-economy-balance-simulation",
+      "game-ai"
+    ]
+  },
+  {
+    "name": "feel-platformer",
+    "goal": "2D platformer coyote time jump buffer landing VFX SFX camera impulse",
+    "engine": null,
+    "expect": [
+      "game-platformer-feel",
+      "game-input-buffering",
+      "game-hit-feedback",
+      "game-camera-effects",
+      "game-audio-visual-sync"
+    ]
+  },
+  {
+    "name": "feel-melee",
+    "goal": "3D melee combat lock-on combo cancel hit stop camera shake haptics boss telegraph",
+    "engine": null,
+    "expect": [
+      "game-lock-on-targeting",
+      "game-combat-feel",
+      "game-hit-feedback",
+      "game-haptics",
+      "game-boss-encounter"
+    ]
+  },
+  {
+    "name": "feel-mobile",
+    "goal": "mobile action touch UI safe area gesture haptics low-cost VFX",
+    "engine": null,
+    "expect": [
+      "game-responsive-ui",
+      "game-input-design",
+      "game-haptics",
+      "game-vfx-optimization"
+    ]
+  },
+  {
+    "name": "feel-controller-menu",
+    "goal": "controller-first menu focus navigation rebind subtitles text size colorblind",
+    "engine": null,
+    "expect": [
+      "game-menu-navigation",
+      "game-input-design",
+      "game-accessibility"
+    ]
+  },
+  {
+    "name": "feel-low-webgl",
+    "goal": "low-end WebGL responsive UI shader particle budget input latency visual readability",
+    "engine": null,
+    "expect": [
+      "game-responsive-ui",
+      "game-vfx-optimization",
+      "game-control-latency",
+      "performance-optimization"
+    ]
+  },
+  {
+    "name": "language-browser",
+    "goal": "browser multiplayer game with a maintainable typed codebase",
+    "engine": null,
+    "expect": [
+      "gamedev-language-selector"
+    ],
+    "expect_language": "TypeScript"
+  },
+  {
+    "name": "language-aaa-native",
+    "goal": "AAA native console action game requiring maximum performance",
+    "engine": null,
+    "expect": [
+      "gamedev-language-selector"
+    ],
+    "expect_language": "C++"
+  },
+  {
+    "name": "language-small-prototype",
+    "goal": "small team rapid prototype for a 2D game",
+    "engine": null,
+    "expect": [
+      "gamedev-language-selector"
+    ],
+    "expect_language": "GDScript"
+  },
+  {
+    "name": "language-engine-lock",
+    "goal": "four player survival game",
+    "engine": "unreal",
+    "expect": [
+      "gamedev-language-selector",
+      "unreal-cpp-gameplay"
+    ],
+    "expect_language": "C++",
+    "expect_locked": true
+  }
+]

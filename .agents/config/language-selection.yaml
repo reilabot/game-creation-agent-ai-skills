@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "engine_languages": {
+    "unity": {
+      "primary": "C#",
+      "alternatives": [],
+      "reason": "Unity gameplay and editor scripting use C# as the supported default."
+    },
+    "unreal": {
+      "primary": "C++",
+      "alternatives": [
+        "Blueprints"
+      ],
+      "reason": "Unreal native gameplay uses C++; Blueprints complement it for visual scripting."
+    },
+    "godot": {
+      "primary": "GDScript",
+      "alternatives": [
+        "C#"
+      ],
+      "reason": "GDScript provides the tightest Godot workflow; C# is viable when .NET constraints are acceptable."
+    },
+    "roblox": {
+      "primary": "Luau",
+      "alternatives": [],
+      "reason": "Roblox runtime scripting uses Luau."
+    },
+    "bevy": {
+      "primary": "Rust",
+      "alternatives": [],
+      "reason": "Bevy is a Rust engine and ECS framework."
+    },
+    "phaser": {
+      "primary": "TypeScript",
+      "alternatives": [
+        "JavaScript"
+      ],
+      "reason": "TypeScript adds static tooling while preserving the Phaser web ecosystem."
+    },
+    "pixijs": {
+      "primary": "TypeScript",
+      "alternatives": [
+        "JavaScript"
+      ],
+      "reason": "TypeScript is the maintainable default for PixiJS web projects."
+    },
+    "threejs": {
+      "primary": "TypeScript",
+      "alternatives": [
+        "JavaScript"
+      ],
+      "reason": "TypeScript improves contracts in non-trivial Three.js applications."
+    },
+    "pygame": {
+      "primary": "Python",
+      "alternatives": [],
+      "reason": "pygame targets Python."
+    },
+    "love2d": {
+      "primary": "Lua",
+      "alternatives": [],
+      "reason": "LÖVE gameplay is authored in Lua."
+    }
+  },
+  "signals": [
+    {
+      "language": "TypeScript",
+      "keywords": [
+        "browser",
+        "webgl",
+        "web game",
+        "ブラウザ"
+      ],
+      "reason": "The browser target favors the TypeScript/JavaScript ecosystem."
+    },
+    {
+      "language": "C++",
+      "keywords": [
+        "aaa",
+        "native",
+        "console",
+        "maximum performance",
+        "最高性能"
+      ],
+      "reason": "Native and high-end constraints favor C++ when the engine ecosystem supports it."
+    },
+    {
+      "language": "Rust",
+      "keywords": [
+        "rust",
+        "bevy",
+        "ecs",
+        "memory safety"
+      ],
+      "reason": "Rust fits Bevy/ECS or explicit memory-safety requirements."
+    },
+    {
+      "language": "GDScript",
+      "keywords": [
+        "rapid prototype",
+        "small team",
+        "beginner",
+        "godot",
+        "小規模",
+        "プロトタイプ"
+      ],
+      "reason": "Fast iteration and a small team favor GDScript with Godot."
+    },
+    {
+      "language": "C#",
+      "keywords": [
+        "unity",
+        "mobile",
+        "cross-platform",
+        "モバイル",
+        "クロスプラットフォーム"
+      ],
+      "reason": "Unity/C# offers broad platform support and productive iteration."
+    },
+    {
+      "language": "Python",
+      "keywords": [
+        "pygame",
+        "python",
+        "education",
+        "教材"
+      ],
+      "reason": "Python fits pygame and education-oriented development."
+    },
+    {
+      "language": "Lua",
+      "keywords": [
+        "love2d",
+        "löve",
+        "lua"
+      ],
+      "reason": "Lua is the native LÖVE scripting choice."
+    }
+  ],
+  "fallback": {
+    "primary": null,
+    "alternatives": [
+      "C#",
+      "GDScript",
+      "TypeScript",
+      "C++"
+    ],
+    "reason": "Engine and platform constraints are insufficient; select the engine or run a vertical-slice spike first."
+  }
+}

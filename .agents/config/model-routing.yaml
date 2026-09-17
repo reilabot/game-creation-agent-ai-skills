@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "classes": {
+    "frontier-high": {
+      "use_for": [
+        "requirements",
+        "architecture",
+        "integration",
+        "hard-debugging"
+      ],
+      "reasoning": "high"
+    },
+    "coding-high": {
+      "use_for": [
+        "implementation",
+        "refactor",
+        "test-fixes"
+      ],
+      "reasoning": "high"
+    },
+    "vision-capable": {
+      "use_for": [
+        "screenshots",
+        "ui",
+        "art",
+        "visual-qa"
+      ],
+      "reasoning": "medium"
+    },
+    "fast-low-cost": {
+      "use_for": [
+        "inventory",
+        "formatting",
+        "mechanical-checks"
+      ],
+      "reasoning": "low"
+    }
+  },
+  "rule": "Map to an available model only at execution time; never fail because a product name is absent."
+}

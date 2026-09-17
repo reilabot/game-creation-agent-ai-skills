@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "always": [
+    "gamedev-project-analyzer",
+    "gamedev-language-selector",
+    "gamedev-router"
+  ],
+  "rules": [
+    {
+      "keywords": [
+        "platformer",
+        "プラットフォーマー",
+        "coyote",
+        "jump buffer"
+      ],
+      "skills": [
+        "platformer",
+        "game-platformer-feel",
+        "game-input-buffering",
+        "game-player-controller",
+        "game-hit-feedback",
+        "game-camera-effects",
+        "game-audio-visual-sync"
+      ]
+    },
+    {
+      "keywords": [
+        "melee",
+        "近接",
+        "soulslike"
+      ],
+      "skills": [
+        "game-combat-feel",
+        "game-lock-on-targeting",
+        "game-hit-feedback",
+        "game-camera-effects",
+        "game-haptics",
+        "game-animation-responsiveness",
+        "game-boss-encounter"
+      ]
+    },
+    {
+      "keywords": [
+        "mobile",
+        "モバイル",
+        "touch"
+      ],
+      "skills": [
+        "game-responsive-ui",
+        "game-menu-navigation",
+        "game-input-design",
+        "game-haptics",
+        "game-vfx-optimization",
+        "game-accessibility"
+      ]
+    },
+    {
+      "keywords": [
+        "controller",
+        "gamepad",
+        "コントローラー"
+      ],
+      "skills": [
+        "game-menu-navigation",
+        "game-input-design",
+        "game-accessibility"
+      ]
+    },
+    {
+      "keywords": [
+        "webgl",
+        "low-end",
+        "低性能"
+      ],
+      "skills": [
+        "game-responsive-ui",
+        "game-vfx-optimization",
+        "game-control-latency",
+        "performance-optimization",
+        "game-accessibility"
+      ]
+    },
+    {
+      "keywords": [
+        "roguelite",
+        "roguelike",
+        "ローグ"
+      ],
+      "skills": [
+        "roguelike",
+        "procedural-gen",
+        "save-systems"
+      ]
+    },
+    {
+      "keywords": [
+        "idle",
+        "放置"
+      ],
+      "skills": [
+        "genre-idle-incremental",
+        "game-economy-balance-simulation",
+        "save-systems"
+      ]
+    },
+    {
+      "keywords": [
+        "survival",
+        "サバイバル",
+        "crafting",
+        "クラフト",
+        "building",
+        "建築"
+      ],
+      "skills": [
+        "survival-crafting",
+        "game-crafting-building",
+        "save-systems"
+      ]
+    },
+    {
+      "keywords": [
+        "card game",
+        "カードゲーム"
+      ],
+      "skills": [
+        "game-design",
+        "save-systems"
+      ]
+    },
+    {
+      "keywords": [
+        "tycoon",
+        "タイクーン"
+      ],
+      "skills": [
+        "genre-tycoon",
+        "game-economy-balance-simulation",
+        "save-systems"
+      ]
+    },
+    {
+      "keywords": [
+        "strategy",
+        "ストラテジー",
+        "turn-based",
+        "ターン制"
+      ],
+      "skills": [
+        "game-design",
+        "game-economy-balance-simulation",
+        "game-ai"
+      ]
+    },
+    {
+      "keywords": [
+        "multiplayer",
+        "online",
+        "協力",
+        "専用サーバー"
+      ],
+      "skills": [
+        "game-authoritative-server",
+        "game-network-prediction",
+        "game-desync-investigation",
+        "game-anti-cheat"
+      ]
+    },
+    {
+      "keywords": [
+        "ui",
+        "hud",
+        "menu",
+        "字幕",
+        "safe area"
+      ],
+      "skills": [
+        "game-ui-information-architecture",
+        "game-responsive-ui",
+        "game-accessibility"
+      ]
+    }
+  ],
+  "finish": [
+    "game-qa-playtest",
+    "gamedev-quality-gate"
+  ]
+}

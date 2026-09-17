@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "gates": {
+    "functional": "critical journeys and failure recovery pass",
+    "persistence": "versioned save/load and migration evidence",
+    "network": "authority and impairment tests when online",
+    "visual": "readability across target states and resolutions",
+    "accessibility": "input, subtitle, color, text, motion settings persist",
+    "performance": "representative frame-time and memory budgets",
+    "release": "immutable artifact, provenance, rollback and approvals"
+  }
+}

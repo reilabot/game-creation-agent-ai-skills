@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "engines": {
+    "unity": {
+      "files": [
+        "ProjectSettings/ProjectVersion.txt",
+        "Assets/**"
+      ],
+      "skills": [
+        "unity-csharp-scripting"
+      ]
+    },
+    "unreal": {
+      "files": [
+        "*.uproject",
+        "Source/*.Build.cs"
+      ],
+      "skills": [
+        "unreal-cpp-gameplay"
+      ]
+    },
+    "godot": {
+      "files": [
+        "project.godot"
+      ],
+      "skills": [
+        "godot-gdscript",
+        "godot-nodes-scenes"
+      ]
+    },
+    "roblox": {
+      "files": [
+        "default.project.json",
+        "*.rbxl*"
+      ],
+      "skills": [
+        "roblox-luau",
+        "roblox-networking"
+      ]
+    },
+    "bevy": {
+      "content": [
+        "bevy"
+      ],
+      "files": [
+        "Cargo.toml"
+      ],
+      "skills": [
+        "bevy-ecs"
+      ]
+    },
+    "phaser": {
+      "content": [
+        "phaser"
+      ],
+      "files": [
+        "package.json"
+      ],
+      "skills": [
+        "phaser-core"
+      ]
+    },
+    "pixijs": {
+      "content": [
+        "pixi.js",
+        "pixijs"
+      ],
+      "files": [
+        "package.json"
+      ],
+      "skills": [
+        "pixijs-rendering"
+      ]
+    },
+    "threejs": {
+      "content": [
+        "three"
+      ],
+      "files": [
+        "package.json"
+      ],
+      "skills": [
+        "threejs-scene-setup"
+      ]
+    },
+    "pygame": {
+      "content": [
+        "pygame"
+      ],
+      "files": [
+        "requirements.txt",
+        "pyproject.toml"
+      ],
+      "skills": [
+        "pygame-core"
+      ]
+    },
+    "love2d": {
+      "files": [
+        "conf.lua",
+        "main.lua"
+      ],
+      "skills": [
+        "love2d-core"
+      ]
+    }
+  }
+}
