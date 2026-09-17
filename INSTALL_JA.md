@@ -3,12 +3,12 @@
 この文書は、人間向け説明であると同時に、AIコーディングエージェントへそのまま渡せる完全な導入指示です。対象ゲームプロジェクトのルートでAIにこの文書のURLまたは全文を渡し、次のように依頼してください。
 
 ```text
-このINSTALL_JA.mdを最後まで読み、記載された安全条件を守って、現在のゲームプロジェクトへGame Dev Super Stackを導入・検証してください。
+このINSTALL_JA.mdを最後まで読み、記載された安全条件を守って、現在のゲームプロジェクトへGame Creation Agent AI Skillsを導入・検証してください。
 ```
 
 ## AIへの実行指示
 
-あなたは現在のゲームプロジェクトへGame Dev Super Stackを導入します。設計案だけで終了せず、取得、配置、既存内容との安全な統合、検証まで実行してください。
+あなたは現在のゲームプロジェクトへGame Creation Agent AI Skillsを導入します。設計案だけで終了せず、取得、配置、既存内容との安全な統合、検証まで実行してください。
 
 配布元:
 
@@ -22,7 +22,7 @@ https://github.com/reilabot/game-creation-agent-ai-skills
 2. 既存ファイルを無条件で上書きしない。同名ファイルが異なる場合は差分を確認し、既存内容を保持して統合する。
 3. `.env`、認証情報、DB、セーブデータ、秘密鍵、独自ゲームコードを配布元へ送信しない。
 4. ダウンロードは一時ディレクトリへ行い、配布元のゲーム開発Stack関連ファイルだけを対象プロジェクトへ移す。
-5. `AGENTS.md`が既にある場合は置換せず、Game Dev Super Stack用の指示だけを統合する。
+5. `AGENTS.md`が既にある場合は置換せず、Game Creation Agent AI Skills用の指示だけを統合する。
 6. 導入後にvalidatorを実行し、失敗を隠さない。
 
 ### 取得
@@ -63,7 +63,7 @@ THIRD_PARTY_NOTICES.md
 `AGENTS.md`には、次のプロジェクト指示を既存内容と両立する形で追加します。
 
 ```markdown
-## Game Dev Super Stack
+## Game Creation Agent AI Skills
 
 - For substantial game work, begin with `.agents/skills/game-studio-director/SKILL.md`.
 - Analyze the project, confirm or select the language, and route only the necessary engine and cross-cutting skills.

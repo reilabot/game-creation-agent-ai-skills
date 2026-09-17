@@ -2,15 +2,15 @@
 
 適用開始日: 2026-09-17
 
-本規約は、Game Dev Super Stackの独自Skillをどのように利用できるかを説明します。法的な許諾条件は[Game Creation Agent AI Skills 独自Skillライセンス 1.0](ORIGINAL_SKILLS_LICENSE.ja.md)です。本規約とライセンスに相違がある場合は、ライセンスを優先します。
+本規約は、Game Creation Agent AI Skillsの独自Skillをどのように利用できるかを説明します。法的な許諾条件は[Game Creation Agent AI Skills 独自Skillライセンス 1.0](ORIGINAL_SKILLS_LICENSE.ja.md)です。本規約とライセンスに相違がある場合は、ライセンスを優先します。
 
 ## 必須規則
 
 1. **使用は自由です。** 個人、教育、非営利、商用プロジェクトで、人間またはAIとともに独自Skillを使用できます。
 2. **参考は自由です。** 独自Skillを読み、研究し、学び、私的に変更できます。
-3. **作者を偽ってはいけません。** Game Dev Super Stack、独自Skill、またはその複製部分を自分が作成したと表示、主張、示唆してはいけません。
+3. **作者を偽ってはいけません。** Game Creation Agent AI Skills、独自Skill、またはその複製部分を自分が作成したと表示、主張、示唆してはいけません。
 4. **Skillを販売してはいけません。** 独自Skillまたは実質的複製物を販売、有料公開、賃貸、その他有償で提供してはいけません。Skillを使用して作成したゲームその他の独立した成果物の販売は禁止されません。
-5. **公開する派生物や記事には参考元を明記してください。** 独自Skillを実質的に参考にした新しいSkill、記事、チュートリアル、動画、論文、その他類似の著作物を公開する場合、Game Dev Super Stackを参考にした旨、またはリポジトリURLを明確に記載してください。
+5. **公開する派生物や記事には参考元を明記してください。** 独自Skillを実質的に参考にした新しいSkill、記事、チュートリアル、動画、論文、その他類似の著作物を公開する場合、Game Creation Agent AI Skillsを参考にした旨、またはリポジトリURLを明確に記載してください。
 6. **再配布時は表示を維持してください。** 無償で再配布する場合、ライセンス、著作権、出典、変更内容の表示を維持しなければなりません。
 
 ## 必須の記載例
@@ -18,12 +18,12 @@
 次のいずれか、または同等に明確な形式を使用してください。
 
 ```text
-Game Dev Super Stackを参考または基礎として使用:
+Game Creation Agent AI Skillsを参考または基礎として使用:
 https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 ```text
-参考元: Game Dev Super Stack — https://github.com/reilabot/game-creation-agent-ai-skills
+参考元: Game Creation Agent AI Skills — https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 README、記事本文、謝辞、説明欄、文書など、通常の読者や受領者が見つけられる位置へ記載してください。
@@ -43,7 +43,7 @@ README、記事本文、謝辞、説明欄、文書など、通常の読者や�
 - 出典表示を削除し、自分の著作物としてSkillを再配布する。
 - 独自Skill、軽微な変更だけを加えた複製物、有料ダウンロード、有料Skill集を販売する。
 - 独自Skillを購読または会員向けの有料領域に配置する。
-- Game Dev Super Stackを出典または参考元として示さず、実質的な派生Skillまたは記事を公開する。
+- Game Creation Agent AI Skillsを出典または参考元として示さず、実質的な派生Skillまたは記事を公開する。
 
 ## 外部Skill
 

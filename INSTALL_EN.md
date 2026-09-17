@@ -3,12 +3,12 @@
 This document is both a human guide and a complete execution prompt for an AI coding agent. Give the AI this file's URL or full contents while it is operating at the target game project's root, then ask:
 
 ```text
-Read this entire INSTALL_EN.md and install and validate Game Dev Super Stack in the current game project while following every safety constraint.
+Read this entire INSTALL_EN.md and install and validate Game Creation Agent AI Skills in the current game project while following every safety constraint.
 ```
 
 ## Instructions for the AI agent
 
-Install Game Dev Super Stack into the current game project. Do not stop at a proposal: retrieve the distribution, place or safely merge its files, and complete validation.
+Install Game Creation Agent AI Skills into the current game project. Do not stop at a proposal: retrieve the distribution, place or safely merge its files, and complete validation.
 
 Source repository:
 
@@ -63,7 +63,7 @@ THIRD_PARTY_NOTICES.md
 Merge this section into the target project's `AGENTS.md` without removing existing instructions:
 
 ```markdown
-## Game Dev Super Stack
+## Game Creation Agent AI Skills
 
 - For substantial game work, begin with `.agents/skills/game-studio-director/SKILL.md`.
 - Analyze the project, confirm or select the language, and route only the necessary engine and cross-cutting skills.

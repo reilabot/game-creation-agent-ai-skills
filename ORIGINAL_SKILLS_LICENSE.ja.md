@@ -2,7 +2,7 @@
 
 適用開始日: 2026-09-17
 
-Copyright © 2026 Game Dev Super Stack author（GitHub: `reilabot`）。以下で明示的に許可する権利を除き、すべての権利を留保します。
+Copyright © 2026 Game Creation Agent AI Skills author（GitHub: `reilabot`）。以下で明示的に許可する権利を除き、すべての権利を留保します。
 
 ## 1. 適用範囲
 
@@ -37,8 +37,8 @@ Copyright © 2026 Game Dev Super Stack author（GitHub: `reilabot`）。以下�
 
 帰属表示には、最低限、次のいずれかを含めてください。
 
-- `Game Dev Super Stackを参考または基礎として使用: https://github.com/reilabot/game-creation-agent-ai-skills`
-- リポジトリURLと、Game Dev Super Stackを出典または参考元として使用した旨の記載。
+- `Game Creation Agent AI Skillsを参考または基礎として使用: https://github.com/reilabot/game-creation-agent-ai-skills`
+- リポジトリURLと、Game Creation Agent AI Skillsを出典または参考元として使用した旨の記載。
 
 複製物または派生Skillを配布する場合は、さらに次の条件を守ってください。
 

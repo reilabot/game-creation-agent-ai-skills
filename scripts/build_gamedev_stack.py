@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the repository-local Game Dev Super Stack without touching game code."""
+"""Build the repository-local Game Creation Agent AI Skills without touching game code."""
 from __future__ import annotations
 
 import json

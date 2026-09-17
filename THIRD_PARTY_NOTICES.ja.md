@@ -6,4 +6,4 @@
 
  Apache ライセンス 2.0 テキスト: https://www.apache.org/licenses/LICENSE-2.0 
 
-Game Dev Super Stack独自Skillライセンスおよび利用規約は、これら28個の外部Skillには適用されません。Apache License 2.0の許可と条件は変更されません。
+Game Creation Agent AI Skills独自Skillライセンスおよび利用規約は、これら28個の外部Skillには適用されません。Apache License 2.0の許可と条件は変更されません。

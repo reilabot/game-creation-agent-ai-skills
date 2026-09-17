@@ -2,7 +2,7 @@
 
 Effective date: 2026-09-17
 
-Copyright © 2026 Game Dev Super Stack author (GitHub: `reilabot`). All rights reserved except for the permissions expressly granted below.
+Copyright © 2026 Game Creation Agent AI Skills author (GitHub: `reilabot`). All rights reserved except for the permissions expressly granted below.
 
 ## 1. Scope
 
@@ -37,8 +37,8 @@ When you publicly distribute an Original Skill, a Substantial Copy, or a Derivat
 
 The attribution must include at least one of the following:
 
-- `Based on or referencing Game Dev Super Stack: https://github.com/reilabot/game-creation-agent-ai-skills`
-- the Repository URL together with a statement that Game Dev Super Stack was used as a source or reference.
+- `Based on or referencing Game Creation Agent AI Skills: https://github.com/reilabot/game-creation-agent-ai-skills`
+- the Repository URL together with a statement that Game Creation Agent AI Skills was used as a source or reference.
 
 For redistributed copies or Derivative Skills, you must also:
 
