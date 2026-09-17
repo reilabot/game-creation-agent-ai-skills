@@ -2,6 +2,35 @@
 
 A portable Agent Skills stack for planning, building, validating, and shipping games across Unity, Unreal Engine, Godot, Roblox, Bevy, Phaser, PixiJS, Three.js, pygame, LÖVE, and custom engines.
 
+## Development and AI authorship
+
+The author develops and maintains this project in a **Codex × Antigravity** environment. The entire project was created using AI, including its planning, architecture, original Skill design, implementation, documentation, localization, tests, and validation workflows. Human direction, review, and release decisions are combined with AI-driven production and verification.
+
+This repository also includes 28 pinned upstream Apache-2.0 Skills. Those components retain their original authorship and license attribution in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md); the statement above describes how this stack was assembled, extended, documented, and maintained.
+
+## Skill architecture
+
+```mermaid
+flowchart TD
+    Goal[Game-development request] --> Director[Game Studio Director]
+    Director --> Analyzer[Project Analyzer]
+    Analyzer --> Language[Language Selector]
+    Language --> Router[GameDev Router]
+    Router --> Engine[Engine Skills]
+    Router --> Genre[Genre Skills]
+    Router --> Systems[Gameplay and System Skills]
+    Router --> Experience[UI, UX, Art, VFX, Audio and Accessibility]
+    Router --> Delivery[Networking, Save, Performance, QA, CI/CD and Publishing]
+    Engine --> Increment[Playable Increment]
+    Genre --> Increment
+    Systems --> Increment
+    Experience --> Increment
+    Delivery --> Increment
+    Increment --> Gate[GameDev Quality Gate]
+    Gate -->|Pass| Release[Validated Build or Release Candidate]
+    Gate -->|Fix required| Router
+```
+
 ## What is included
 
 - 109 independently discoverable Agent Skills
@@ -54,6 +83,35 @@ Original Game Dev Super Stack content is licensed under Apache License 2.0. Vend
 # Game Dev Super Stack（日本語）
 
 Unity、Unreal Engine、Godot、Roblox、Bevy、Phaser、PixiJS、Three.js、pygame、LÖVE、独自エンジンにおけるゲームの企画、開発、検証、リリースを支援する、持ち運び可能なAgent Skillsスタックです。
+
+## 開発環境とAIによる制作
+
+作者本人が**Codex × Antigravity**環境で本プロジェクトを開発・保守しています。企画、アーキテクチャ、独自Skillの設計、実装、文書、翻訳、テスト、検証Workflowを含む、本プロジェクトのすべてをAIを使用して制作しました。人間による方針決定、レビュー、公開判断と、AIによる制作・検証を組み合わせています。
+
+このリポジトリには、バージョンを固定したApache-2.0の外部Skill 28個も含まれています。それらの原著作者とライセンス帰属は[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)に維持されています。上記の説明は、本Stackの構成、拡張、文書化、保守を行った制作工程について示すものです。
+
+## Skill構成図
+
+```mermaid
+flowchart TD
+    Goal[ゲーム開発の依頼] --> Director[Game Studio Director]
+    Director --> Analyzer[Project Analyzer]
+    Analyzer --> Language[Language Selector]
+    Language --> Router[GameDev Router]
+    Router --> Engine[エンジンSkill]
+    Router --> Genre[ジャンルSkill]
+    Router --> Systems[ゲームプレイ・システムSkill]
+    Router --> Experience[UI・UX・アート・VFX・オーディオ・アクセシビリティ]
+    Router --> Delivery[ネットワーク・セーブ・性能・QA・CI/CD・公開]
+    Engine --> Increment[プレイ可能なIncrement]
+    Genre --> Increment
+    Systems --> Increment
+    Experience --> Increment
+    Delivery --> Increment
+    Increment --> Gate[GameDev Quality Gate]
+    Gate -->|合格| Release[検証済みBuildまたはRelease Candidate]
+    Gate -->|修正が必要| Router
+```
 
 ## 収録内容
 
