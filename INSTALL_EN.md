@@ -13,7 +13,7 @@ Install Game Dev Super Stack into the current game project. Do not stop at a pro
 Source repository:
 
 ```text
-https://github.com/shuu123/game-dev-super-stack
+https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 ### Safety constraints
@@ -30,13 +30,13 @@ https://github.com/shuu123/game-dev-super-stack
 If Git is available, clone into a temporary directory:
 
 ```bash
-git clone --depth 1 https://github.com/shuu123/game-dev-super-stack.git <temporary-directory>
+git clone --depth 1 https://github.com/reilabot/game-creation-agent-ai-skills.git <temporary-directory>
 ```
 
 Without Git, download and extract this archive into a temporary directory:
 
 ```text
-https://github.com/shuu123/game-dev-super-stack/archive/refs/heads/main.zip
+https://github.com/reilabot/game-creation-agent-ai-skills/archive/refs/heads/main.zip
 ```
 
 ### Install into the target project

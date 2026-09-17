@@ -1,4 +1,4 @@
-# ゲーム開発スーパー スタック
+# Game Creation Agent AI Skills（日本語）
 
  Unity、Unreal Engine、Godot、Roblox、Bevy、Phaser、PixiJS、Three.js、pygame、LÖVE、カスタム エンジン全体でゲームを計画、構築、検証、出荷するためのポータブル エージェント スキル スタック。
 

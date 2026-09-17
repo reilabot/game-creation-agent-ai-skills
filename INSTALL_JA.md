@@ -13,7 +13,7 @@
 配布元:
 
 ```text
-https://github.com/shuu123/game-dev-super-stack
+https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 ### 安全条件
@@ -30,13 +30,13 @@ https://github.com/shuu123/game-dev-super-stack
 Gitが利用可能なら、一時ディレクトリへcloneします。
 
 ```bash
-git clone --depth 1 https://github.com/shuu123/game-dev-super-stack.git <temporary-directory>
+git clone --depth 1 https://github.com/reilabot/game-creation-agent-ai-skills.git <temporary-directory>
 ```
 
 Gitがなければ、次のアーカイブを一時ディレクトリへ取得・展開します。
 
 ```text
-https://github.com/shuu123/game-dev-super-stack/archive/refs/heads/main.zip
+https://github.com/reilabot/game-creation-agent-ai-skills/archive/refs/heads/main.zip
 ```
 
 ### 対象プロジェクトへ配置

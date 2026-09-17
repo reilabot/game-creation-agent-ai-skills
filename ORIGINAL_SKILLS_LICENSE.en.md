@@ -16,7 +16,7 @@ It does not apply to the 28 **External skills**. Those remain under Apache Licen
 - **Reference** means reading, studying, quoting limited portions of, learning from, or using ideas and structure from an Original Skill.
 - **Derivative Skill** means a new or modified Skill based materially on an Original Skill.
 - **Substantial Copy** means an unchanged copy or a copy retaining a substantial part of the expression, instructions, structure, examples, or organization of an Original Skill, even if names or formatting are changed.
-- **Repository URL** means `https://github.com/reilabot/game-dev-super-stack`.
+- **Repository URL** means `https://github.com/reilabot/game-creation-agent-ai-skills`.
 
 ## 3. Permissions
 
@@ -37,7 +37,7 @@ When you publicly distribute an Original Skill, a Substantial Copy, or a Derivat
 
 The attribution must include at least one of the following:
 
-- `Based on or referencing Game Dev Super Stack: https://github.com/reilabot/game-dev-super-stack`
+- `Based on or referencing Game Dev Super Stack: https://github.com/reilabot/game-creation-agent-ai-skills`
 - the Repository URL together with a statement that Game Dev Super Stack was used as a source or reference.
 
 For redistributed copies or Derivative Skills, you must also:

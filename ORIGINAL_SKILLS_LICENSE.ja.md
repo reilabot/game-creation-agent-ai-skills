@@ -16,7 +16,7 @@ Copyright © 2026 Game Dev Super Stack author（GitHub: `reilabot`）。以下�
 - **参考**とは、独自Skillを読み、研究し、限定的に引用し、そこから学び、アイデアまたは構造を利用することです。
 - **派生Skill**とは、独自Skillに実質的に基づく、新規または変更されたSkillです。
 - **実質的複製物**とは、名称や書式を変更していても、独自Skillの表現、指示、構造、例、または構成の実質的部分を保持する、未変更または変更された複製物です。
-- **リポジトリURL**とは、`https://github.com/reilabot/game-dev-super-stack`です。
+- **リポジトリURL**とは、`https://github.com/reilabot/game-creation-agent-ai-skills`です。
 
 ## 3. 許可事項
 
@@ -37,7 +37,7 @@ Copyright © 2026 Game Dev Super Stack author（GitHub: `reilabot`）。以下�
 
 帰属表示には、最低限、次のいずれかを含めてください。
 
-- `Game Dev Super Stackを参考または基礎として使用: https://github.com/reilabot/game-dev-super-stack`
+- `Game Dev Super Stackを参考または基礎として使用: https://github.com/reilabot/game-creation-agent-ai-skills`
 - リポジトリURLと、Game Dev Super Stackを出典または参考元として使用した旨の記載。
 
 複製物または派生Skillを配布する場合は、さらに次の条件を守ってください。

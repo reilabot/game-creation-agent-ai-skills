@@ -19,11 +19,11 @@ Use either of these formats, or another equally clear format:
 
 ```text
 Based on or referencing Game Dev Super Stack:
-https://github.com/reilabot/game-dev-super-stack
+https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 ```text
-Reference: Game Dev Super Stack — https://github.com/reilabot/game-dev-super-stack
+Reference: Game Dev Super Stack — https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 Place the credit where ordinary readers or recipients can find it, such as the README, article body, acknowledgements, description, or documentation.

@@ -1,4 +1,4 @@
-# Game Dev Super Stack
+# Game Creation Agent AI Skills
 
 A portable Agent Skills stack for planning, building, validating, and shipping games across Unity, Unreal Engine, Godot, Roblox, Bevy, Phaser, PixiJS, Three.js, pygame, LÖVE, and custom engines.
 

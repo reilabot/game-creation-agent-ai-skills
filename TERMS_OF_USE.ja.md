@@ -19,11 +19,11 @@
 
 ```text
 Game Dev Super Stackを参考または基礎として使用:
-https://github.com/reilabot/game-dev-super-stack
+https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 ```text
-参考元: Game Dev Super Stack — https://github.com/reilabot/game-dev-super-stack
+参考元: Game Dev Super Stack — https://github.com/reilabot/game-creation-agent-ai-skills
 ```
 
 README、記事本文、謝辞、説明欄、文書など、通常の読者や受領者が見つけられる位置へ記載してください。

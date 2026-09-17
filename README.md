@@ -1,4 +1,4 @@
-# Game Dev Super Stack
+# Game Creation Agent AI Skills
 
 A portable Agent Skills stack for planning, building, validating, and shipping games across Unity, Unreal Engine, Godot, Roblox, Bevy, Phaser, PixiJS, Three.js, pygame, LÖVE, and custom engines.
 
@@ -84,7 +84,7 @@ This repository uses a split license model:
 
 ---
 
-# Game Dev Super Stack（日本語）
+# Game Creation Agent AI Skills（日本語）
 
 Unity、Unreal Engine、Godot、Roblox、Bevy、Phaser、PixiJS、Three.js、pygame、LÖVE、独自エンジンにおけるゲームの企画、開発、検証、リリースを支援する、持ち運び可能なAgent Skillsスタックです。
 
