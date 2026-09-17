@@ -1,4 +1,4 @@
-# Game Dev Super Stack 独自Skillライセンス 1.0
+# Game Creation Agent AI Skills 独自Skillライセンス 1.0
 
 適用開始日: 2026-09-17
 

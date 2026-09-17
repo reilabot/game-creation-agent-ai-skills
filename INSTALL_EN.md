@@ -1,4 +1,4 @@
-# Game Dev Super Stack Installation Instructions (English)
+# Game Creation Agent AI Skills Installation Instructions (English)
 
 This document is both a human guide and a complete execution prompt for an AI coding agent. Give the AI this file's URL or full contents while it is operating at the target game project's root, then ask:
 

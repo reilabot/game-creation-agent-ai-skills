@@ -1,8 +1,8 @@
-# Game Dev Super Stack 利用規約
+# Game Creation Agent AI Skills 利用規約
 
 適用開始日: 2026-09-17
 
-本規約は、Game Dev Super Stackの独自Skillをどのように利用できるかを説明します。法的な許諾条件は[Game Dev Super Stack 独自Skillライセンス 1.0](ORIGINAL_SKILLS_LICENSE.ja.md)です。本規約とライセンスに相違がある場合は、ライセンスを優先します。
+本規約は、Game Dev Super Stackの独自Skillをどのように利用できるかを説明します。法的な許諾条件は[Game Creation Agent AI Skills 独自Skillライセンス 1.0](ORIGINAL_SKILLS_LICENSE.ja.md)です。本規約とライセンスに相違がある場合は、ライセンスを優先します。
 
 ## 必須規則
 

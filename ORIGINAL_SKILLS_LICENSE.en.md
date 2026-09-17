@@ -1,4 +1,4 @@
-# Game Dev Super Stack Original Skills License 1.0
+# Game Creation Agent AI Skills Original Skills License 1.0
 
 Effective date: 2026-09-17
 

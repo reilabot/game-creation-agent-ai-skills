@@ -1,8 +1,8 @@
-# Game Dev Super Stack Terms of Use
+# Game Creation Agent AI Skills Terms of Use
 
 Effective date: 2026-09-17
 
-These terms explain how the Game Dev Super Stack Original Skills may be used. The binding license is the [Game Dev Super Stack Original Skills License 1.0](ORIGINAL_SKILLS_LICENSE.en.md). If these terms and the license differ, the license controls.
+These terms explain how the Game Dev Super Stack Original Skills may be used. The binding license is the [Game Creation Agent AI Skills Original Skills License 1.0](ORIGINAL_SKILLS_LICENSE.en.md). If these terms and the license differ, the license controls.
 
 ## Core rules
 
