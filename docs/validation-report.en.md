@@ -11,7 +11,7 @@ Validation date: 2026-09-17 (Asia/Tokyo)
 | Router fixtures | PASS | 17/17, including eight engine/genre cases, five UI/VFX/feel cases, and four language-selection cases |
 | Over-routing guard | PASS | Every fixture selected at most 18 skills |
 | Clean reproduction | PASS | Pinned archive SHA-256 `ab6762d63dc829d2d69f5a562fa5b7ca4942db9ef738c801b5167431f585df45`; clean install produced 109 skills including the language selector |
-| License and attribution | PASS | Custom license and Terms cover 81 original skills; 28 external skills remain locked to one Apache-2.0 commit |
+| License and attribution | PASS | Apache License 2.0 covers the 81 original skills; 28 external skills remain locked to one Apache-2.0 commit |
 | Secret/dangerous literal scan | PASS | No credential-like fixed literal found in Skill files; mutation boundaries documented |
 | Codex/Antigravity layout | PASS with note | Canonical `.agents/skills`; Antigravity fallback described in installation docs |
 | Representative GOAL dry runs | PASS | Unreal co-op survival selects C++; browser selects TypeScript; an under-specified strategy goal returns a shortlist instead of guessing |

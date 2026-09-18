@@ -75,10 +75,7 @@ def main() -> int:
             fail(f"fixture {fixture['name']} language lock mismatch")
     required = [
         ROOT / "THIRD_PARTY_NOTICES.md",
-        ROOT / "ORIGINAL_SKILLS_LICENSE.en.md",
-        ROOT / "ORIGINAL_SKILLS_LICENSE.ja.md",
-        ROOT / "TERMS_OF_USE.en.md",
-        ROOT / "TERMS_OF_USE.ja.md",
+        ROOT / "LICENSE",
         ROOT / "LICENSES/Apache-2.0.txt",
         ROOT / "docs/source-lock.md",
         ROOT / ".agents/README.md",
@@ -86,10 +83,9 @@ def main() -> int:
     for file in required:
         if not file.exists():
             fail(f"required file missing: {file}")
-    license_text = (ROOT / "ORIGINAL_SKILLS_LICENSE.en.md").read_text(encoding="utf-8")
-    for required_term in ["Use", "Reference", "Mandatory attribution", "Prohibited conduct", "sell"]:
-        if required_term not in license_text:
-            fail(f"original skills license missing required term: {required_term}")
+    license_text = (ROOT / "LICENSE").read_text(encoding="utf-8")
+    if "Apache License" not in license_text or "Version 2.0" not in license_text:
+        fail("LICENSE is not Apache License 2.0")
     print(f"skills={len(skill_files)} fixtures={len(fixtures)} errors={len(ERRORS)}")
     for error in ERRORS:
         print(f"ERROR: {error}")

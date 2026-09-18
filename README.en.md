@@ -47,8 +47,4 @@ The Router performs selection only. Publishing, deployment, purchases, credentia
 
 ## License
 
-This repository uses a split license model:
-
-- The 81 original Skills use the [Game Creation Agent AI Skills Original Skills License 1.0](ORIGINAL_SKILLS_LICENSE.en.md). Use and reference are free; false authorship and sale of the Skills are prohibited; public derivative Skills and articles require attribution or the repository URL. See the [Terms of Use](TERMS_OF_USE.en.md).
-- The 28 vendored Skills remain under Apache License 2.0. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [`LICENSES/Apache-2.0.txt`](LICENSES/Apache-2.0.txt).
-- This is a source-available custom license, not an OSI-approved open-source license, because it restricts sale and paid redistribution of the original Skills.
+Game Creation Agent AI Skills is licensed under Apache License 2.0. This includes the 81 original Skills and the repository-authored tooling, configuration, tests, and documentation. The 28 vendored Skills retain their upstream Apache-2.0 attribution; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
